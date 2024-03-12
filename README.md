@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning renpy language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig: J_izquierdoo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like videogames and play football
 
 <!---
 JuliaLaMasViral/JuliaLaMasViral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
