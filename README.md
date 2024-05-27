@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames 
 - 🌱 I’m currently learning renpy language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig: J_izquierdoo
+- 📫 How to reach me tuenti: juliajueguillos
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like videogames and play football
 
